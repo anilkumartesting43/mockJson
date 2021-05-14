@@ -1,0 +1,17 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 2, "title": "Server-Location", "author": "Anil" }
+    { "id": 3, "title": "Facebook-george", "author": "Jyothi" }
+    { "id": 4, "title": "twitter-server", "author": "Suman" }
+    { "id": 5, "title": "Insta-server", "author": "Hanvi" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Yemaindi", "postId": 1 }
+    { "id": 2, "body": "Eroju kottaga", "postId": 2 }
+    { "id": 3, "body": "Chudalanit", "postId": 3 }
+    { "id": 4, "body": "kastha kastam", "postId": 4 }
+    { "id": 5, "body": "Cheppali", "postId": 5 }
+  ],
+  "profile": { "name": "typicode" }
+}
